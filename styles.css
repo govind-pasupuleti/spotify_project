@@ -241,17 +241,17 @@
   box-shadow: 2px 0px 10px rgba(0, 0, 0, 0.5);
 }
 .App__section-grid-item:nth-of-type(1) .featured-image {
-  background-image: url("../Rectangle\ 16.jpg");
+  background-image: url("./Rectangle\ 16.jpg");
 
 }
 .App__section-grid-item:nth-of-type(2) .featured-image {
-  background-image: url("../Rectangle\ 16\ \(3\).jpg");
+  background-image: url("./Rectangle\ 16\ \(3\).jpg");
 }
 .App__section-grid-item:nth-of-type(3) .featured-image {
-  background-image: url("../Rectangle\ 16\ \(1\).jpg");
+  background-image: url("./Rectangle\ 16\ \(1\).jpg");
 }
 .App__section-grid-item:nth-of-type(4) .featured-image {
-  background-image: url("../Rectangle\ 16\ \(2\).jpg");
+  background-image: url("./Rectangle\ 16\ \(2\).jpg");
 }
 
 
@@ -677,4 +677,3 @@
   }
 
 
-    
